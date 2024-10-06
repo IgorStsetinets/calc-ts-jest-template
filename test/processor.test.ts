@@ -26,3 +26,4 @@ test('Check processor verify', (): void => {
 test('Check processor negative', (): void => {
   expect(processor.checkConsent(user)).toBeFalsy()
 })
+

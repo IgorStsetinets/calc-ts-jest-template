@@ -9,3 +9,4 @@ export class Processor {
     return user.consentGiven === true
   }
 }
+
