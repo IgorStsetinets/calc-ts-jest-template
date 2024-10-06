@@ -12,6 +12,5 @@ export class User {
     this.phone = phone
     this.address = address
     this.age = age
-
   }
 }

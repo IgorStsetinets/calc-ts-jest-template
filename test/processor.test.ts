@@ -45,5 +45,4 @@ test('Method revokeConsent correctly revokes consent', () => {
 
   processor.revokeConsent(user)
   expect(user.consentGiven).toBe(false)
-
 })
