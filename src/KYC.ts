@@ -18,4 +18,5 @@ export class KYC {
       user.activateEParakstsForLatvia = true
     }
   }
+
 }

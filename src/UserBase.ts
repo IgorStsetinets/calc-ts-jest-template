@@ -22,4 +22,5 @@ export class UserBase {
     this.phone = phone
     this.address = address
   }
+
 }

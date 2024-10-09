@@ -25,4 +25,5 @@ export class Contract {
       throw new Error('Cant sign contract: EParaksts is not activated')
     }
   }
+
 }

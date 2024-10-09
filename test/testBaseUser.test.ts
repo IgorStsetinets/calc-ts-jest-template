@@ -46,4 +46,5 @@ describe('test for latvia user', () => {
       kyc.activateEParakstsForLatvia(userLatviaIsYoung)
     }).toThrow('User is too young')
   })
+
 })

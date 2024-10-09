@@ -14,4 +14,5 @@ export class UserEstonia extends UserBase {
     super(name, surname, age, personalCode, phone, address)
     this.mobileIDAuthorization = undefined
   }
+
 }

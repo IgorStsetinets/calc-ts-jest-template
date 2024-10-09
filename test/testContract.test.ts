@@ -43,4 +43,5 @@ describe('Contract signing tests for latvianUser', () => {
       contract.signByLatviaUser(latvianUser)
     }).toThrow('Cant sign contract: EParaksts is not activated')
   })
+
 })

@@ -15,4 +15,5 @@ export class UserLatvia extends UserBase {
 
     this.activateEParakstsForLatvia = undefined
   }
+
 }
